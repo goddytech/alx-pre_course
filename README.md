@@ -1,2 +1,2 @@
 README.md
-Starting to code today
+“Starting to code today, so cool”
